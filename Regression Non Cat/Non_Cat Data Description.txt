@@ -1,0 +1,15 @@
+Price: The price of the car in US dollars. This is the target variable for the regression model.
+
+Mileage: The total distance the car has traveled, measured in miles. Typically, higher mileage can correlate with lower prices.
+
+Year: The manufacturing year of the car. More recent models usually have higher prices.
+
+EngineSize: The size of the car's engine, measured in liters. Larger engines might indicate better performance but could also affect fuel efficiency.
+
+Horsepower: The power output of the car's engine, measured in horsepower. Higher horsepower often correlates with better performance and higher prices.
+
+Weight: The weight of the car, measured in pounds. Heavier cars might indicate larger, more luxurious models.
+
+FuelEfficiency: The car's fuel efficiency, measured in miles per gallon (MPG). More fuel-efficient cars are often more economical and may be priced higher depending on market demand.
+
+BrandScore: A score representing the popularity or reputation of the car's brand, on a scale from 0 to 10. A higher score usually correlates with higher brand desirability and price.
