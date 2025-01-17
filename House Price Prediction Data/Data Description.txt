@@ -1,0 +1,13 @@
+Location: The general area where the house is located.
+
+House Type: The type of house, such as Apartment, Villa, Townhouse, or Cottage.
+
+Bedrooms: The number of bedrooms in the house.
+
+Bathrooms: The number of bathrooms in the house.
+
+Square Footage: The total area of the house in square feet.
+
+Construction Year: The year the house was built.
+
+Price: The market price of the house in dollars.
